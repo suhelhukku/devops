@@ -5,3 +5,6 @@ Jenkins
 Docker
 Ansible
 Kubernetes
+Prometheus
+Nexus
+Sonarqube
