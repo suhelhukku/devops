@@ -189,7 +189,7 @@
       }
     </style>
   </head>
-  <body>
+  <body bgcolor="#FAEBE7">
     <div class="testbox">
       <form action="/">
         <div class="banner">
