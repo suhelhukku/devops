@@ -1,7 +1,7 @@
 <html>
 <html>
   <head>
-    <title>Devops Job Application Form</title>
+    <title>Job Application Form
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <style>
@@ -193,7 +193,7 @@
     <div class="testbox">
       <form action="/">
         <div class="banner">
-          <h1>Devops Job Application Form</h1>
+          <h1>Job Application Form</h1>
         </div>
         <p class="top-info">Thank you for your interest in working with us. Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.</p>
         <p> Welcome to Our Organization</p>
