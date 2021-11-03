@@ -193,12 +193,12 @@
     <div class="testbox">
       <form action="/">
         <div class="banner">
-          <h1>Job Application Form</h1>
+          <h1>Devops Job Application Form</h1>
         </div>
         <p class="top-info">Thank you for your interest in working with us. Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.</p>
-        <p> Welcome to Our Organization</p>
+        <center><p> Welcome to Our Organization</p>
         <p> Please feel free to fill all the details in the form </p>
-        <p> We will get back to you shortly</p>
+          <p> We will get back to you shortly</p> </center>
         <div class="item">
           <p>Name<span class="required">*</span></p>
           <div class="name-item">
