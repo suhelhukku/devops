@@ -53,7 +53,7 @@
       }
       .banner::after {
       content: "";
-      background-color: rgba(0, 0, 0, 0.3);
+      background-color: rgba(0, 0, 0, 0.8);
       position: absolute;
       width: 100%;
       height: 100%;
@@ -196,9 +196,9 @@
           <h1>Devops Job Application Form</h1>
         </div>
         <p class="top-info">Thank you for your interest in working with us. Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.</p>
-        <center><p> Welcome to Our Organization</p>
-        <p> Please feel free to fill all the details in the form </p>
-          <p> We will get back to you shortly</p> </center>
+        <center><h4> Welcome to Our Organization</h4>
+        <h4> Please feel free to fill all the details in the form </h4>
+          <h2> We will get back to you shortly</h2> </center>
         <div class="item">
           <p>Name<span class="required">*</span></p>
           <div class="name-item">
