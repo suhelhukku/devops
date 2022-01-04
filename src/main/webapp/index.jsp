@@ -197,9 +197,9 @@
         </div>
         <p class="top-info">Thank you for your interest in working with us. Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.</p>
         
-        <h2 align="center"> Welcome to Our Organization</h2>
-        <p align="center"> Please feel free to fill all the details in the form </p>
-        <p align="center"> We will get back to you shortly</p>
+        <h2> Welcome to Our Organization</h2>
+        <p> Please feel free to fill all the details in the form </p>
+        <p> We will get back to you shortly</p>
         <div class="item">
           <p>Name<span class="required">*</span></p>
           <div class="name-item">
