@@ -199,6 +199,7 @@
         
         <h2> Welcome to Our Organization</h2>
         <h3>Jenkins Poll SCM Concept</h3>
+        <h3>Jenkins Declarative COncept discussed</h3>
         <p> Please feel free to fill all the details in the form </p>
         <p> We will get back to you shortly</p>
         <div class="item">
