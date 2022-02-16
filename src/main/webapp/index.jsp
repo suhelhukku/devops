@@ -53,7 +53,7 @@
       }
       .banner::after {
       content: "";
-      background-color: rgba(0,0,255,0.4);
+      background-color: rgba(255,150,255,0.5);
       position: absolute;
       width: 100%;
       height: 100%;
@@ -193,13 +193,13 @@
     <div class="testbox">
       <form action="/">
         <div class="banner">
-          <h1>DevOps Job Application Form</h1>
+          <h1>DevOps Job Application</h1>
         </div>
         <p class="top-info">Thank you for your interest in working with us. Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.</p>
         
         <h2 align="center"> Welcome to Our Organization</h2>
-        <h3>Jenkins Poll SCM Concept</h3>
-        <h3>Jenkins Declarative COncept discussed</h3>
+        <h3 align="center">Jenkins Poll SCM Concept</h3>
+        <h3 align="center">Jenkins Declarative COncept discussed</h3>
         <p> Please feel free to fill all the details in the form </p>
         <p> We will get back to you shortly</p>
         <div class="item">
