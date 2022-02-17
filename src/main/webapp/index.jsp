@@ -1,7 +1,7 @@
 <html>
 <html>
   <head>
-    <title>Job Application Form</title>
+    <title>DevOps Job Application</title>
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <style>
@@ -53,7 +53,7 @@
       }
       .banner::after {
       content: "";
-      background-color: rgba(180,150,255,0.7);
+      background-color: rgba(180,255,255,0.7);
       position: absolute;
       width: 100%;
       height: 100%;
