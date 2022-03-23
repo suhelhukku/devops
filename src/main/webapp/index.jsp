@@ -53,7 +53,7 @@
       }
       .banner::after {
       content: "";
-      background-color: rgba(255,100,255,0.9);
+      background-color: rgba(100,100,150,0.5);
       position: absolute;
       width: 100%;
       height: 100%;
