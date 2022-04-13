@@ -53,7 +53,7 @@
       }
       .banner::after {
       content: "";
-      background-color: rgba(0,255,0,0.9);
+      background-color: rgba(0,0,200,0.7);
       position: absolute;
       width: 100%;
       height: 100%;
@@ -197,7 +197,7 @@
         </div>
         <p class="top-info">Thank you for your interest in working with us. Please check below for available job opportunities that meet your criteria and send your application by filling out the Job Application Form.</p>
         
-        <h2> Welcome to Our Organization</h2>
+        <h2 align="center"> Welcome to Our Organization</h2>
    <p> Please feel free to fill all the details in the form </p>
            <p> We will get back to you shortly</p>
         <div class="item">
