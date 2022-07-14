@@ -1,0 +1,407 @@
+[33mcommit 13d73763f8b1a8c2a4871fbda9a3aa8ea3c6fff4[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: suhel <suhelhukku@gmaill.com>
+Date:   Thu Jul 14 06:48:48 2022 +0000
+
+    Revert "push"
+    
+    This reverts commit 7874347acae0dc6336061bceeb44b41be79e6b05.
+
+[33mcommit 7874347acae0dc6336061bceeb44b41be79e6b05[m
+Author: suhel <suhelhukku@gmaill.com>
+Date:   Thu Jul 14 06:48:09 2022 +0000
+
+    push
+
+[33mcommit 20f5e2819b62a0ad02fa1609cc69b4e8fc66aff6[m
+Merge: ccc8c81 688c3f2
+Author: suhel <suhelhukku@gmaill.com>
+Date:   Thu Jul 14 06:10:22 2022 +0000
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 688c3f2dbc67cd41a4d58607cdb448f9e2dd5ac5[m
+Author: suhelhukku <98253336+suhelhukku@users.noreply.github.com>
+Date:   Thu Jul 14 11:38:36 2022 +0530
+
+    Update hello
+
+[33mcommit ccc8c8183ec595cfe938cf583a0c99e164a85002[m
+Merge: 422ffc8 8a95d27
+Author: suhel <suhelhukku@gmaill.com>
+Date:   Thu Jul 14 06:07:55 2022 +0000
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+[33mcommit 8a95d273c9fec35b9ea2e89044a815d190bc19b3[m
+Author: suhelhukku <98253336+suhelhukku@users.noreply.github.com>
+Date:   Thu Jul 14 11:32:01 2022 +0530
+
+    Update hello
+
+[33mcommit 422ffc806c64bca7562e02b1b608c159cae73280[m
+Author: suhel <suhelhukku@gmaill.com>
+Date:   Thu Jul 14 05:59:11 2022 +0000
+
+    Revert "revert"
+    
+    This reverts commit d6e2cbae1aade6bd4790a580d3dcd0b49ef5186f.
+
+[33mcommit 8c5566587ad0c61c81450c2eb0a94e1780f916a7[m
+Author: suhel <suhelhukku@gmaill.com>
+Date:   Thu Jul 14 05:58:04 2022 +0000
+
+    revert
+
+[33mcommit dc8aa2e35c67a2fde3dcc207cfac18930f4ef4ec[m
+Author: suhelhukku <98253336+suhelhukku@users.noreply.github.com>
+Date:   Thu Jul 14 11:26:08 2022 +0530
+
+    Create hello
+
+[33mcommit f8ced94babc569215de9b8d25cd87d10f0d11adc[m
+Author: suhelhukku <98253336+suhelhukku@users.noreply.github.com>
+Date:   Thu Jul 14 11:25:39 2022 +0530
+
+    Update pom.xml
+
+[33mcommit f4c6e72e6643efc7370d01b6c8919bcc02cb3429[m
+Author: suhel <suhelhukku@gmaill.com>
+Date:   Thu Jul 14 05:53:57 2022 +0000
+
+    commit
+
+[33mcommit 13e5de8a2b9327395bfc3d9ad6ea78e5d360ab90[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Tue Jul 5 08:24:25 2022 +0530
+
+    new commits
+
+[33mcommit 75beb206829bde87c6708a241631b0f59bcbd0f6[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Tue Jul 5 08:21:42 2022 +0530
+
+    new change
+
+[33mcommit 0732103b57740d5d9974153f9a73abca682c2360[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Tue Jul 5 08:18:16 2022 +0530
+
+    updated changes
+
+[33mcommit 575be51502aba29726f927b0f7c9b2ce5f3801da[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Thu Jun 2 06:15:01 2022 +0530
+
+    new commits
+
+[33mcommit fb364bc978b2ec53176ad8c954284ac1f81de2cc[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Thu Jun 2 06:12:42 2022 +0530
+
+    new commit
+
+[33mcommit 5abab9d0cc8198ed5cc0d35f1a4bc7e19b817f30[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Thu Jun 2 06:09:14 2022 +0530
+
+    commit new
+
+[33mcommit 38fc6dd81f1dae77df2368666f24118766b9b174[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Jun 1 06:59:44 2022 +0530
+
+    new change
+
+[33mcommit f199b7b99b2d29a9563ca4c64b1aea96394a9902[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Jun 1 06:49:48 2022 +0530
+
+    new commit
+
+[33mcommit 8ca5c71d8d91d09556105ae691436bd245efc8cd[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Tue May 31 20:41:13 2022 +0530
+
+    new commit
+
+[33mcommit 3eab2cc5ea219bfd84dbd685953694b84529b546[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Sat Apr 16 18:56:31 2022 +0530
+
+    newchange
+
+[33mcommit 93570e9553627edbf8d2dfd4d67aa231aed61cfc[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Sat Apr 16 18:53:37 2022 +0530
+
+    new commit
+
+[33mcommit 54c447e2756de324bf0335dd94bbc4ddfa7c0b3f[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Sat Apr 16 18:47:52 2022 +0530
+
+    new commit
+
+[33mcommit 18c8577b06cbc450669f4fa6a102c9fe37a2be0b[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Apr 13 20:14:49 2022 +0530
+
+    new commit
+
+[33mcommit 1ad9739b353c9d27d3e0bcb8e91606fbc56d242d[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Apr 13 20:11:35 2022 +0530
+
+    new commit c1
+
+[33mcommit 02f3e6e8adb9f376112e7ce76452cc9678494212[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Apr 13 09:35:14 2022 +0530
+
+    new update
+
+[33mcommit 0ac48f7d51a809d9dceed8ab73d88183cf0bffec[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Apr 13 09:33:46 2022 +0530
+
+    new commit
+
+[33mcommit ba05e545efe3eb8523665c5a31fd5dfbdb2163c7[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Apr 13 09:23:19 2022 +0530
+
+    new commit
+
+[33mcommit c751458638064f11a46dcffdb801bdc192e0bf26[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Mar 23 13:10:34 2022 +0530
+
+    new commit
+
+[33mcommit ec6e3b27cb8742cdb150722bbb9776fb3635a585[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Mar 23 13:03:06 2022 +0530
+
+    new commit
+
+[33mcommit c449616a12d7581e847ee174b49aea5966536deb[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Thu Feb 17 08:01:01 2022 +0530
+
+    new changes
+
+[33mcommit b47c6ea41136c0281d5777d50450a03a4028f2b8[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Thu Feb 17 07:59:53 2022 +0530
+
+    new change
+
+[33mcommit 6779f9d01dd09aa56ed34e774dee88a3b7cb33d0[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Thu Feb 17 07:48:56 2022 +0530
+
+    new commit
+
+[33mcommit bd18169096eade0ac5d50e5176660f7958b050c7[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Feb 16 08:36:51 2022 +0530
+
+    new commit again
+
+[33mcommit 170c6541bebdd475490d1b076879373a2176ab48[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Feb 16 08:32:53 2022 +0530
+
+    new commit
+
+[33mcommit 3362b8871e1b3612ea323bbf32449d8232a1022d[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Tue Feb 8 18:05:51 2022 +0530
+
+    asdf
+
+[33mcommit 393f6d6f76de04e6ab236d8e22b229c330bb3d60[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Thu Feb 3 10:42:34 2022 +0530
+
+    Update index.jsp
+
+[33mcommit 15dbbc5457ba78b845b72c2b148efa1b780b6e08[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Thu Feb 3 10:41:32 2022 +0530
+
+    Update index.jsp
+
+[33mcommit 2b0e452245d342644a9a2ea10be1675eecc44712[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Thu Feb 3 10:29:57 2022 +0530
+
+    new change
+
+[33mcommit f4edd414f99f3a5de6540666e893053cc50da82d[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Thu Feb 3 10:27:50 2022 +0530
+
+    new commit
+
+[33mcommit f6ec7d5493c2acd6e2ef371f052e75dc685916a3[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Thu Feb 3 10:25:10 2022 +0530
+
+    new commit
+
+[33mcommit 7f42f84a0f26a6f1d4e45f7b94099d899e6269d7[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Sun Jan 30 12:23:14 2022 +0530
+
+    new change
+
+[33mcommit 7bd251c3d63f14ed80f58f78229da19399f7bd2a[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Sun Jan 30 12:19:10 2022 +0530
+
+    new change
+
+[33mcommit 9b374d34174d986fe72d46406087e06a5a0fed33[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Sat Jan 29 06:58:01 2022 +0530
+
+    new commit
+
+[33mcommit 1e6d477fb2e30bd6bc0419b0b22364b641d53897[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Mon Jan 24 07:04:12 2022 +0530
+
+    Update index.jsp
+
+[33mcommit e5b6fcc4bc55e7d977a325ae547370c4f8e5eabf[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Fri Jan 7 19:49:32 2022 +0530
+
+    new commit
+
+[33mcommit fc21052ad5536f354de827be84cf4aaaa4e2578d[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Fri Jan 7 17:24:42 2022 +0530
+
+    new commit
+
+[33mcommit a6f2b0742a4e5a7f9435cca98ecdc985449a792a[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Tue Jan 4 19:54:18 2022 +0530
+
+    new commit
+
+[33mcommit 8818dcf26391f9b6de9a9b72c7b2a071955514ea[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Tue Jan 4 19:41:56 2022 +0530
+
+    new commit
+
+[33mcommit 563bad8cee809dccfda9c367667f7c88d0ec6b93[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Thu Dec 30 19:30:49 2021 +0530
+
+    new commit
+
+[33mcommit a993371eab326c470b9515a0c78b0c31c9e33c62[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Thu Dec 30 19:26:11 2021 +0530
+
+    new commit
+
+[33mcommit 5c48f43b1aa60f1880cdf3b2d188e88ea946ee4b[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Nov 3 18:48:36 2021 +0530
+
+    new commit - resolved the issue
+
+[33mcommit 663170c6926609415c1ebf8c5ae3af279a1a98a8[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Nov 3 18:42:01 2021 +0530
+
+    new change
+
+[33mcommit 2dfca2bd4e06d91cd4e93f2e970c6ec07cea31c9[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Nov 3 18:37:15 2021 +0530
+
+    new commit
+
+[33mcommit bad5a174587fe99cd9d4195e64a8ea09d1851743[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Nov 3 16:55:54 2021 +0530
+
+    new commit
+
+[33mcommit f9a73298302f9a340e57c2a773211746904502a7[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Nov 3 16:51:33 2021 +0530
+
+    updated index.html
+
+[33mcommit c1bd06a61be9f77789d845a55e835f544540704d[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Nov 3 10:11:30 2021 +0530
+
+    new commit with new data added
+
+[33mcommit 14a48aac9f2cdc3d99857cdc7bed5d9bea4c4b8e[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Wed Nov 3 10:02:01 2021 +0530
+
+    updated background color to white
+
+[33mcommit 54187c627b3aaa55f68025bf083932aae16f6262[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Mon Oct 4 11:57:32 2021 +0530
+
+    new change
+
+[33mcommit c4fd3c4044a4e0cb6f1f84eb3bec546d84eda4de[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Fri Oct 1 10:54:35 2021 +0530
+
+    new commit
+
+[33mcommit e817f44589df1222db484a9d91a14d5878c9a8bd[m
+Author: nexsonitsolutions <90821449+nexsonitsolutions@users.noreply.github.com>
+Date:   Fri Oct 1 10:51:43 2021 +0530
+
+    new commit
+
+[33mcommit c226200234a6bb0636a702eb928039761225c0ba[m
+Author: nexsonitsolutions <nexsonitsolutions@gmail.com>
+Date:   Thu Sep 30 11:03:05 2021 +0530
+
+    first commit
+
+[33mcommit c0c0e5cf5ff9200351d6ef1002e329a3ae715142[m
+Author: nexsonitsolutions <nexsonitsolutions@gmail.com>
+Date:   Fri Sep 24 07:21:45 2021 +0530
+
+    c5
+
+[33mcommit 24d819d7bbd13ecde6999981abd92f13248a3b7b[m
+Author: nexsonitsolutions <nexsonitsolutions@gmail.com>
+Date:   Fri Sep 24 07:21:17 2021 +0530
+
+    c4
+
+[33mcommit b025fa1e0ade12464f4440990b5721e445b30899[m
+Author: nexsonitsolutions <nexsonitsolutions@gmail.com>
+Date:   Fri Sep 24 07:18:22 2021 +0530
+
+    c3
+
+[33mcommit caef512dad13b3e1ef1bc4a19a451b2dbb9eae95[m
+Author: nexsonitsolutions <nexsonitsolutions@gmail.com>
+Date:   Fri Sep 24 07:18:09 2021 +0530
+
+    c2
+
+[33mcommit 073b88259354c6a80733b28e69e2694b0d25390b[m
+Author: nexsonitsolutions <nexsonitsolutions@gmail.com>
+Date:   Fri Sep 24 07:17:55 2021 +0530
+
+    c1
